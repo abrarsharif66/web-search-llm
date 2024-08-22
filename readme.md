@@ -23,6 +23,7 @@ LLM_SEARCH_TEMPLATE/
 ```
 ### Demo video 
 
+https://github.com/user-attachments/assets/a0ab50e7-0a91-4930-99b8-8e8bcca67a9e
 
 ### Key Components
 
